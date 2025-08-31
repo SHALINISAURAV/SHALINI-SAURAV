@@ -62,6 +62,16 @@
 
 ---
 
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=SHALINISAURAV&theme=radical&no-frame=true&row=1&column=6)
+
+---
+
+## 🌱 Contribution Graph
+![Shalini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SHALINISAURAV&theme=radical)
+
+---
+
 ## 🌟 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/shalini-saurav-649aa22b8/)  
 - 📧 [Email](shalinisourv07@gmail.com)  
