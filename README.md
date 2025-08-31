@@ -56,9 +56,9 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SHALINI-SAURAV&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHALINI-SAURAV&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SHALINI-SAURAV&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SHALINISAURAV&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHALINISAURAV&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SHALINISAURAV&theme=radical)
 
 ---
 
