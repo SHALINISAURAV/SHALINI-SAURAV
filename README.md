@@ -1,9 +1,9 @@
 # 🌟 Hi, I'm Shalini Saurav! 👩‍💻  
-**Aspiring Data Scientist | AI & Deep Learning Enthusiast | Generative AI Explorer**
+**Aspiring Data Scientist | AI & Deep Learning Enthusiast | Generative AI Explorer** 🧚🏻‍♀️
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me ;)
 - 🎓 Passionate about **Data Science, Machine Learning, Deep Learning & Generative AI**  
 - 💡 Skilled in **Python, SQL, TensorFlow, PyTorch, Hugging Face, Scikit-learn**  
 - 🌱 Currently exploring **MLOps, Computer Vision, NLP & GenAI**  
