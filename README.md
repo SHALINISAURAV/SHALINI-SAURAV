@@ -49,9 +49,9 @@
 - 🎯 **Object Detection (YOLO / Faster R-CNN)** – Detecting objects in images/videos  
 
 ### 🔹 Generative AI (In Progress 🚧)  
-- 🔮 Exploring **RAG (Retrieval-Augmented Generation)**  
-- ✨ Building **LLM-powered applications** with Hugging Face & LangChain  
-- 🎨 Future goal: Create **Generative AI solutions** for text, image, and multimodal tasks  
+🔮 Exploring **RAG (Retrieval-Augmented Generation)**  
+✨ Building **LLM-powered applications** with Hugging Face & LangChain  
+🎨 Future goal: Create **Generative AI solutions** for text, image, and multimodal tasks  
 
 ---
 
@@ -73,8 +73,8 @@
 ---
 
 ## 🌟 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/shalini-saurav-649aa22b8/)  
-- 📧 [Email](shalinisourv07@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/shalini-saurav-649aa22b8/)  
+📧 [Email](shalinisourv07@gmail.com)  
 
 ---
 
