@@ -4,10 +4,10 @@
 ---
 
 ## 🚀 About Me ;)
-- 🎓 Passionate about **Data Science, Machine Learning, Deep Learning & Generative AI**  
-- 💡 Skilled in **Python, SQL, TensorFlow, PyTorch, Hugging Face, Scikit-learn**  
-- 🌱 Currently exploring **MLOps, Computer Vision, NLP & GenAI**  
-- 🎯 Goal: To build **end-to-end AI solutions** that make real-world impact  
+  🎓 Passionate about **Data Science, Machine Learning, Deep Learning & Generative AI**  
+  💡 Skilled in **Python, SQL, TensorFlow, PyTorch, Hugging Face, Scikit-learn**  
+  🌱 Currently exploring **MLOps, Computer Vision, NLP & GenAI**  
+  🎯 Goal: To build **end-to-end AI solutions** that make real-world impact  
 
 ---
 
@@ -27,20 +27,20 @@
 ## 📂 Featured Projects  
 
 ### 🔹 Machine Learning  
-- 📝 **JSON Data Analysis** – Extracting insights from structured JSON datasets  
-- 🧑‍⚕️ **Diabetes Prediction** – ML model to predict diabetes using medical data  
-- 📊 **Survey Lung Cancer Prediction** – Predicting lung cancer risk with survey data  
-- 🎬 **Movie Rating Predictor** – Predicting movie ratings based on features  
-- 🌸 **Iris Flower Classification** – Classic ML project with supervised learning  
-- 🚢 **Titanic Survival Prediction** – Predicting passenger survival rates  
-- 🏠 **House Price Prediction** – Regression model on housing dataset  
-- 🎓 **Grade Forecasting** – Predicting academic grades using ML models  
-- 💼 **Salary Prediction** – Regression-based salary forecasting  
-- 🚗 **Car Price Prediction** – Used car price predictor  
-- 📧 **Email Spam Detection** – Classifying emails as spam/ham  
-- 🏦 **Loan Approval Prediction** – Binary classification ML project  
-- 🍷 **Wine Quality Prediction** – Predicting quality of wines  
-- 🔢 **MNIST Digit Classifier** – Classifying handwritten digits  
+ 📝 **JSON Data Analysis** – Extracting insights from structured JSON datasets  
+ 🧑‍⚕️ **Diabetes Prediction** – ML model to predict diabetes using medical data  
+ 📊 **Survey Lung Cancer Prediction** – Predicting lung cancer risk with survey data  
+ 🎬 **Movie Rating Predictor** – Predicting movie ratings based on features  
+ 🌸 **Iris Flower Classification** – Classic ML project with supervised learning  
+ 🚢 **Titanic Survival Prediction** – Predicting passenger survival rates  
+ 🏠 **House Price Prediction** – Regression model on housing dataset  
+ 🎓 **Grade Forecasting** – Predicting academic grades using ML models  
+ 💼 **Salary Prediction** – Regression-based salary forecasting  
+ 🚗 **Car Price Prediction** – Used car price predictor  
+ 📧 **Email Spam Detection** – Classifying emails as spam/ham  
+ 🏦 **Loan Approval Prediction** – Binary classification ML project  
+ 🍷 **Wine Quality Prediction** – Predicting quality of wines  
+ 🔢 **MNIST Digit Classifier** – Classifying handwritten digits  
 
 ### 🔹 Deep Learning  
 🖼️ **CIFAR-10 Image Classification** – CNN-based classifier for 10 image categories  
