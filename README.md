@@ -43,10 +43,10 @@
 - 🔢 **MNIST Digit Classifier** – Classifying handwritten digits  
 
 ### 🔹 Deep Learning  
-- 🖼️ **CIFAR-10 Image Classification** – CNN-based classifier for 10 image categories  
-- 🐱🐶 **Cat vs Dog Classifier** – Deep CNN project for binary image classification  
-- 🎭 **Sentiment Analysis on IMDB** – LSTM/RNN for text sentiment prediction  
-- 🎯 **Object Detection (YOLO / Faster R-CNN)** – Detecting objects in images/videos  
+🖼️ **CIFAR-10 Image Classification** – CNN-based classifier for 10 image categories  
+🐱🐶 **Cat vs Dog Classifier** – Deep CNN project for binary image classification  
+🎭 **Sentiment Analysis on IMDB** – LSTM/RNN for text sentiment prediction  
+🎯 **Object Detection (YOLO / Faster R-CNN)** – Detecting objects in images/videos  
 
 ### 🔹 Generative AI (In Progress 🚧)  
 🔮 Exploring **RAG (Retrieval-Augmented Generation)**  
