@@ -2,7 +2,7 @@
 
 # 🌸 Hey, I'm Shalini Saurav 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=B57EDC&center=true&vCenter=true&width=750&lines=AI+Engineer+in+Progress;Machine+Learning+Engineer;Generative+AI+Developer;Building+Production+Ready+AI+Systems;RAG+%7C+LLMs+%7C+Agentic+AI;Python+Developer;Turning+Ideas+into+Intelligent+Products+🌸" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=B57EDC&center=true&vCenter=true&width=750&lines=AI+Engineer+in+Progress;Machine+Learning+Engineer;Generative+AI+Developer;Building+Production+Ready+AI+Applications;RAG+%7C+LLMs+%7C+Agentic+AI;Python+Developer;Always+Learning+🌸" />
 
 <br>
 
@@ -10,93 +10,89 @@
 
 <br><br>
 
-### 🤖 AI Engineer • ML Builder • GenAI Developer
+### 🤖 Building AI that solves real-world problems through Machine Learning, Generative AI & Software Engineering.
 
-*"Designing intelligent systems with elegance, logic, and creativity."* 💜
+*"Dream big. Learn continuously. Build fearlessly."* 💜
 
 </div>
 
 ---
 
-# 🌸 Digital AI Workspace
+# 🌸 Welcome to My Digital Workspace
 
-<div align="center">
+Hi! I'm **Shalini**, a B.Tech student who loves turning ideas into intelligent applications.
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="420"/>
+While many people stop after training a machine learning model, I enjoy building the **entire AI product**—from collecting and preprocessing data to developing models, designing APIs, integrating LLMs, deploying applications, and making them production-ready.
 
-<br>
+I'm currently on a journey to become an **AI Engineer**, learning not only Artificial Intelligence but also the software engineering skills required to build scalable AI systems.
 
-### 💻 A glimpse into my world of AI engineering
-
-</div>
+I believe that every project teaches something new, and every line of code brings me one step closer to building technology that makes a real impact.
 
 ---
 
 # 🌷 About Me
 
-Hi! I'm **Shalini**, a B.Tech student passionate about building **real-world AI systems that feel alive and useful**.
+<img align="right" alt="Coding Girl" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-I don’t just train models — I build **complete AI products** that include:
-
-- 🧠 Machine Learning Models  
-- 🤖 Generative AI Systems  
-- 📚 Retrieval-Augmented Applications  
-- ⚡ AI Agents & Workflows  
-- 🚀 End-to-End Deployment  
-
-My focus is on becoming a **Production AI Engineer** — someone who can turn research ideas into scalable software systems.
-
----
-
-# 💜 My Engineering Mindset
+### 🌸 Who Am I?
 
 ```yaml
-name: Shalini Saurav
-role: AI Engineer (In Progress)
+Name: Shalini Saurav
 
-vision: >
-  Build intelligent systems that solve real-world problems
-  using Machine Learning + Generative AI + Software Engineering
+Education: B.Tech Student
 
-passion:
-  - AI Product Building
+Role: AI Engineer in Progress
+
+Passionate About:
+  - Artificial Intelligence
+  - Machine Learning
+  - Generative AI
+  - Software Engineering
+
+Currently Building:
+  - Production-ready AI Applications
+  - Intelligent AI Assistants
   - RAG Systems
-  - LLM Applications
-  - Automation
+  - Agentic AI Projects
 
-superpower: curiosity + consistency 🌸
+Learning Style:
+  Learn ➜ Build ➜ Break ➜ Improve ➜ Repeat
+
+Superpower:
+  Curiosity 💜
 ```
+
+<br>
 
 ---
 
-# 🌸 Life as an AI Engineer
+# 💜 A Little More About Me
 
 <table>
 <tr>
-
 <td width="50%">
 
 ### 🌱 Currently
 
 - 🎓 B.Tech Student
-- 🤖 AI Engineering Track
-- 🧠 Learning LLMs & RAG
-- ⚙️ Building AI Apps
-- 📚 Practicing System Design
-- 🚀 Exploring Production AI
+- 🤖 AI Engineer in Progress
+- 💻 Python Developer
+- 🚀 Building End-to-End AI Applications
+- 📚 Learning Every Day
+- 🌍 Open Source Learner
 
 </td>
 
 <td width="50%">
 
-### 🎨 Beyond Code
+### 🌸 Beyond Coding
 
-- 🌸 Sketching & Drawing
-- 📖 Journaling thoughts
-- ☕ Coffee + coding sessions
-- 💡 Exploring ideas
-- 🌍 Tech & startups curiosity
-- ✨ Aesthetic design lover
+- 🎨 Sketching & Artwork
+- 📖 Journaling
+- ☕ Coffee Lover
+- 💡 Curious Thinker
+- 🌍 Technology Enthusiast
+- 🚀 Future Entrepreneur
 
 </td>
 
@@ -107,37 +103,59 @@ superpower: curiosity + consistency 🌸
 
 # 🚀 My Mission
 
-> I believe AI is not just about algorithms — it's about building **systems that think, assist, and enhance human life.**
+> I don't just want to build machine learning models.
 
-I aim to become someone who can:
+I want to engineer **complete AI products** that people can actually use.
 
-- Design AI systems end-to-end
-- Build scalable AI products
-- Work with LLMs in production
-- Understand both AI + Software Engineering
+That means learning everything from:
+
+- 🧠 Machine Learning
+- 🤖 Deep Learning
+- 📚 Large Language Models
+- 🔍 Retrieval-Augmented Generation
+- ⚡ AI Agents
+- 🏗 Software Engineering
+- ☁️ Cloud Deployment
+- 🐳 Docker
+- ⚙️ MLOps
+
+Because modern AI Engineers don't just train models—
+
+**They build intelligent systems.**
 
 ---
 
-# 🌸 AI Journey Map
+# 🌸 My AI Journey
 
 ```text
-Python 🐍
-   ↓
-Data Science 📊
-   ↓
-Machine Learning 🤖
-   ↓
-Deep Learning 🧠
-   ↓
-Generative AI ✨
-   ↓
-LLMs 💬
-   ↓
-RAG Systems 📚
-   ↓
-AI Agents ⚡
-   ↓
-Production AI Systems 🚀
+Python
+   │
+   ▼
+Data Science
+   │
+   ▼
+Machine Learning
+   │
+   ▼
+Deep Learning
+   │
+   ▼
+Generative AI
+   │
+   ▼
+Large Language Models
+   │
+   ▼
+Retrieval-Augmented Generation
+   │
+   ▼
+AI Agents
+   │
+   ▼
+Production AI Systems
+   │
+   ▼
+AI Engineering 🚀
 ```
 
 ---
@@ -150,36 +168,50 @@ Production AI Systems 🚀
 <td align="center">
 
 ### 🚀 Build
-25+ AI Projects
 
-Production Ready Systems
+25+
 
-</td>
+Production Ready
 
-<td align="center">
-
-### 🧠 Master
-LLMs • RAG • Agents
-
-System Design • MLOps
+AI Projects
 
 </td>
 
 <td align="center">
 
-### 🌍 Grow
+### 📚 Learn
+
+LLMs
+
+MLOps
+
+Cloud
+
+System Design
+
+</td>
+
+<td align="center">
+
+### 🌍 Contribute
+
 Open Source
 
-Technical Writing
+Technical Blogs
+
+Developer Community
 
 </td>
 
 <td align="center">
 
 ### 💼 Goal
-AI Engineer Internship
 
-Startup Builder
+Crack an
+
+AI/ML Internship
+
+Become an AI Engineer
 
 </td>
 
@@ -190,9 +222,11 @@ Startup Builder
 
 <div align="center">
 
-## 💜 Developer Philosophy
+## 💜 What Keeps Me Motivated
 
-*"I don’t just write code. I design intelligence."*
+*"The best way to learn Artificial Intelligence is not by watching tutorials...*
+
+*...it's by building projects that solve real problems."* ✨
 
 </div>
 
