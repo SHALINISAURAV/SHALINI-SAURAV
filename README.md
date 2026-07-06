@@ -1,430 +1,750 @@
 <div align="center">
 
-# 🌸 Hey there, I'm Shalini Saurav 👋
+# 🌸 Hey, I'm Shalini Saurav 👋
 
-### 🤖 AI Engineer in Progress • Machine Learning Engineer • Generative AI Developer
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=B57EDC&center=true&vCenter=true&width=750&lines=AI+Engineer+in+Progress;Machine+Learning+Engineer;Generative+AI+Developer;Building+Production+Ready+AI+Applications;RAG+%7C+LLMs+%7C+Agentic+AI;Python+Developer;Always+Learning+🌸" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=AI+Engineer+in+Progress;Machine+Learning+Developer;Generative+AI+Builder;RAG+%7C+LLMs+%7C+Agentic+AI;Python+Developer;Building+Production+Ready+AI+Applications;Learning+Something+New+Every+Day+🌸" />
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=B57EDC&style=for-the-badge"/>
+
+<br><br>
+
+### 🤖 Building AI that solves real-world problems through Machine Learning, Generative AI & Software Engineering.
+
+*"Dream big. Learn continuously. Build fearlessly."* 💜
 
 </div>
+
+---
+
+# 🌸 Welcome to My Digital Workspace
+
+Hi! I'm **Shalini**, a B.Tech student who loves turning ideas into intelligent applications.
+
+While many people stop after training a machine learning model, I enjoy building the **entire AI product**—from collecting and preprocessing data to developing models, designing APIs, integrating LLMs, deploying applications, and making them production-ready.
+
+I'm currently on a journey to become an **AI Engineer**, learning not only Artificial Intelligence but also the software engineering skills required to build scalable AI systems.
+
+I believe that every project teaches something new, and every line of code brings me one step closer to building technology that makes a real impact.
 
 ---
 
 # 🌷 About Me
 
-Hi! I'm **Shalini**, a B.Tech student passionate about building **real-world Artificial Intelligence applications** that create meaningful impact.
+<img align="right" alt="Coding Girl" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-Rather than only training models, I enjoy building **complete AI products**—from data collection and preprocessing to model development, backend engineering, deployment, and production-ready architecture.
+### 🌸 Who Am I?
 
-My long-term goal is to become an **AI Engineer** capable of designing scalable intelligent systems powered by Machine Learning, Generative AI, and Software Engineering.
+```yaml
+Name: Shalini Saurav
 
-I strongly believe in:
+Education: B.Tech Student
 
-- 🌸 Continuous learning
-- 🧠 Building instead of only consuming
-- 🚀 Learning through projects
-- 💡 Solving real-world problems using AI
-- 📚 Strong engineering fundamentals
+Role: AI Engineer in Progress
+
+Passionate About:
+  - Artificial Intelligence
+  - Machine Learning
+  - Generative AI
+  - Software Engineering
+
+Currently Building:
+  - Production-ready AI Applications
+  - Intelligent AI Assistants
+  - RAG Systems
+  - Agentic AI Projects
+
+Learning Style:
+  Learn ➜ Build ➜ Break ➜ Improve ➜ Repeat
+
+Superpower:
+  Curiosity 💜
+```
+
+<br>
 
 ---
 
-# 🎓 Currently
+# 💜 A Little More About Me
 
-🎓 B.Tech Student
+<table>
+<tr>
+<td width="50%">
 
-🤖 Learning AI Engineering Full-Time
+### 🌱 Currently
 
-💻 Building Production Ready AI Projects
+- 🎓 B.Tech Student
+- 🤖 AI Engineer in Progress
+- 💻 Python Developer
+- 🚀 Building End-to-End AI Applications
+- 📚 Learning Every Day
+- 🌍 Open Source Learner
 
-📚 Exploring Software Engineering for AI
+</td>
 
-🌍 Open Source Learner
+<td width="50%">
+
+### 🌸 Beyond Coding
+
+- 🎨 Sketching & Artwork
+- 📖 Journaling
+- ☕ Coffee Lover
+- 💡 Curious Thinker
+- 🌍 Technology Enthusiast
+- 🚀 Future Entrepreneur
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 🚀 Current Focus
+# 🚀 My Mission
+
+> I don't just want to build machine learning models.
+
+I want to engineer **complete AI products** that people can actually use.
+
+That means learning everything from:
 
 - 🧠 Machine Learning
-- 🤖 Generative AI
-- 📚 Retrieval-Augmented Generation (RAG)
-- 🔥 Large Language Models (LLMs)
-- ⚡ Agentic AI
-- 🤝 Multi-Agent Systems
-- 📄 Document AI
-- 🔍 Semantic Search
-- 🏗 AI System Design
-- 🚀 Production AI Applications
+- 🤖 Deep Learning
+- 📚 Large Language Models
+- 🔍 Retrieval-Augmented Generation
+- ⚡ AI Agents
+- 🏗 Software Engineering
+- ☁️ Cloud Deployment
 - 🐳 Docker
-- ⚙️ FastAPI
-- 🌐 Streamlit
-- ☁️ Deployment
-- 🔄 MLOps
+- ⚙️ MLOps
+
+Because modern AI Engineers don't just train models—
+
+**They build intelligent systems.**
 
 ---
 
-# 💻 Tech Stack
+# 🌸 My AI Journey
 
-## 👩‍💻 Programming
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-</p>
-
----
-
-## 📊 Data Science
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas"/>
-
-</p>
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
-
----
-
-## 🤖 AI / ML
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-</p>
-
-- Machine Learning
-- Deep Learning
-- NLP
-- Computer Vision
-- Model Training
-- Feature Engineering
-- Data Analysis
+```text
+Python
+   │
+   ▼
+Data Science
+   │
+   ▼
+Machine Learning
+   │
+   ▼
+Deep Learning
+   │
+   ▼
+Generative AI
+   │
+   ▼
+Large Language Models
+   │
+   ▼
+Retrieval-Augmented Generation
+   │
+   ▼
+AI Agents
+   │
+   ▼
+Production AI Systems
+   │
+   ▼
+AI Engineering 🚀
+```
 
 ---
 
-## 🧠 Generative AI
+# 🎯 2026 Vision
 
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- LangChain
-- Hugging Face Transformers
-- Prompt Engineering
-- AI Agents
-- Agentic AI
-- Multi-Agent Systems
+<table>
+<tr>
 
----
+<td align="center">
 
-## ⚙️ Backend
+### 🚀 Build
 
-<p>
+25+
 
-<img src="https://skillicons.dev/icons?i=fastapi"/>
+Production Ready
 
-</p>
+AI Projects
 
-- REST APIs
-- Python Backend
-- AI APIs
+</td>
 
----
+<td align="center">
 
-## 🌐 Frontend
+### 📚 Learn
 
-<p>
+LLMs
 
-<img src="https://skillicons.dev/icons?i=streamlit"/>
+MLOps
 
-</p>
+Cloud
 
----
+System Design
 
-## 🗄 Database
+</td>
 
-<p>
+<td align="center">
 
-<img src="https://skillicons.dev/icons?i=sqlite"/>
+### 🌍 Contribute
 
-</p>
+Open Source
 
-- SQL
+Technical Blogs
 
----
+Developer Community
 
-## ☁️ DevOps & Deployment
+</td>
 
-<p>
+<td align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,vscode"/>
+### 💼 Goal
 
-</p>
+Crack an
 
----
+AI/ML Internship
 
-# 🛠 Tools I Use
+Become an AI Engineer
 
-- VS Code
-- Google Colab
-- Git
-- GitHub
-- Docker
-- Jupyter Notebook
-- FastAPI
-- Streamlit
+</td>
 
----
-
-# 📖 Currently Learning
-
-✔ Advanced Machine Learning
-
-✔ Deep Learning
-
-✔ MLOps
-
-✔ Agentic AI
-
-✔ Multi-Agent Systems
-
-✔ AI System Design
-
-✔ Vector Databases
-
-✔ Production AI Deployment
-
-✔ Docker
-
-✔ Kubernetes (Upcoming)
-
-✔ Cloud for AI
-
----
-
-# 🚀 Featured Projects
-
-## 🌸 MoodMind AI
-
-An intelligent AI-powered journaling assistant capable of understanding emotions through NLP and Machine Learning.
-
-**Tech**
-
-- Python
-- NLP
-- ML
-- Streamlit
-
----
-
-## 📄 Research Paper Simplifier AI
-
-A production-oriented AI assistant capable of
-
-- Uploading thousands of research papers
-- Semantic Search
-- RAG
-- Chat with PDFs
-- Explain Equations
-- Generate Summaries
-- Extract Future Work
-- Citation Support
-
-**Tech**
-
-Python • FastAPI • LangChain • FAISS • HuggingFace • LLMs • Docker
-
----
-
-## 🤖 AI Customer Support Agent
-
-An intelligent conversational AI using
-
-- Memory
-- RAG
-- APIs
-- Vector Databases
-- LangChain
-- Agentic AI
-
----
-
-## 📂 Smart File Organizer Pro
-
-A complete desktop utility capable of
-
-- Automatic File Organization
-- Logging
-- Undo Support
-- CLI
-- Docker Support
-- Multi-threading
-
----
-
-## 📈 Netflix Content Analysis
-
-Exploratory Data Analysis with
-
-- Data Visualization
-- Business Insights
-- Storytelling
-- Dashboarding
-
----
-
-## 🛍 E-Commerce Sales Analytics
-
-Business Intelligence Project
-
-- Customer Analysis
-- Sales Trends
-- KPI Dashboard
-- Forecasting
-
----
-
-## 🌍 Earthquake Prediction using AI
-
-Research-oriented ML & DL project integrating
-
-- Seismic Data
-- Radon Gas Data
-- Hybrid Models
-- Historical Datasets
-
----
-
-# 🏆 Goals for 2026
-
-- Build 25+ AI Projects
-- Contribute to Open Source
-- Master AI Engineering
-- Learn MLOps
-- Learn Cloud Deployment
-- Become an AI Engineer
-- Publish Technical Blogs
-- Build AI SaaS Products
-- Crack AI/ML Internship
-- Build an AI Startup
-
----
-
-# 🌱 My Learning Philosophy
-
-> Learn → Build → Fail → Improve → Repeat 🚀
-
-I believe the best way to master Artificial Intelligence is by continuously building projects that solve real-world problems.
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
-# 💭 Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🌸 A Little More About Me
-
-🌷 AI Enthusiast
-
-📚 Self Learner
-
-💻 Python Developer
-
-🧠 Curious Thinker
-
-🎨 Artist & Sketching Enthusiast
-
-✍️ Journaling Lover
-
-🚀 Loves Building End-to-End AI Products
-
-🌍 Passionate about Technology & Entrepreneurship
-
-☕ Coffee + Python = Happy Me
-
-🌱 Always Learning Something New
-
----
-
-# 📬 Let's Connect
-
-📧 **Email**
-
-your_email@gmail.com
-
-💼 **LinkedIn**
-
-https://linkedin.com/in/your-profile
-
-🐙 **GitHub**
-
-https://github.com/YOUR_USERNAME
-
-🌐 **Portfolio**
-
-Coming Soon...
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-## 🌸 My Motto
+## 💜 What Keeps Me Motivated
 
-> **"Dream Big. Learn Continuously. Build Fearlessly. Ship Real AI."**
+*"The best way to learn Artificial Intelligence is not by watching tutorials...*
+
+*...it's by building projects that solve real problems."* ✨
+
+</div>
+
+---
+# 💻 AI Tech Arsenal
+
+<div align="center">
+
+## ⚡ Languages • AI • Backend • Deployment
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,docker,git,github,githubactions,vscode,sqlite&perline=10" />
+
+<br>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,sklearn,jupyter" />
+
+</div>
 
 ---
 
-### ⭐ If you like my projects, consider giving them a star!
+# 🤖 AI Engineering Stack
 
-**Thanks for visiting my profile! 😊**
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🧠 Machine Learning
+
+- Supervised Learning
+- Unsupervised Learning
+- Regression
+- Classification
+- Clustering
+- Feature Engineering
+- Model Evaluation
+- Hyperparameter Tuning
+
+</td>
+
+<td width="50%">
+
+## 🔥 Deep Learning
+
+- Artificial Neural Networks
+- CNN
+- RNN
+- LSTM
+- Transfer Learning
+- TensorFlow
+- PyTorch
+- Model Optimization
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 💬 Natural Language Processing
+
+- Text Classification
+- Sentiment Analysis
+- Tokenization
+- Embeddings
+- Transformers
+- Hugging Face
+- Prompt Engineering
+- Document Processing
+
+</td>
+
+<td width="50%">
+
+## 👁 Computer Vision
+
+- OpenCV
+- Image Processing
+- Face Detection
+- Emotion Recognition
+- CNN Models
+- Object Detection Basics
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🌸 Generative AI Stack
+
+<div align="center">
+
+| 💜 Technology | 🌸 Experience |
+|:-------------|:--------------|
+| Large Language Models | ⭐⭐⭐⭐☆ |
+| Retrieval-Augmented Generation (RAG) | ⭐⭐⭐⭐☆ |
+| Prompt Engineering | ⭐⭐⭐⭐⭐ |
+| LangChain | ⭐⭐⭐⭐☆ |
+| Hugging Face Transformers | ⭐⭐⭐⭐☆ |
+| AI Agents | ⭐⭐⭐☆☆ |
+| Multi-Agent Systems | ⭐⭐⭐☆☆ |
+| Semantic Search | ⭐⭐⭐⭐☆ |
+| Vector Embeddings | ⭐⭐⭐☆☆ |
+| Document AI | ⭐⭐⭐⭐☆ |
 
 </div>
+
+---
+
+# 🚀 Production AI Stack
+
+```text
+                 AI PRODUCT
+
+        ┌─────────────────────┐
+        │     Frontend        │
+        │     Streamlit       │
+        └──────────┬──────────┘
+                   │
+                   ▼
+        ┌─────────────────────┐
+        │      FastAPI        │
+        │   REST APIs         │
+        └──────────┬──────────┘
+                   │
+                   ▼
+        ┌─────────────────────┐
+        │    LangChain        │
+        │      RAG            │
+        └──────────┬──────────┘
+                   │
+                   ▼
+        ┌─────────────────────┐
+        │ Hugging Face LLMs   │
+        └──────────┬──────────┘
+                   │
+                   ▼
+        ┌─────────────────────┐
+        │     FAISS DB        │
+        └──────────┬──────────┘
+                   │
+                   ▼
+        ┌─────────────────────┐
+        │     Docker          │
+        └─────────────────────┘
+```
+
+---
+
+# 🧰 Tools I Work With
+
+<div align="center">
+
+| 🛠 Development | 🤖 AI | 📊 Data | 🚀 Deployment |
+|:--------------|:------|:--------|:--------------|
+| VS Code | LangChain | Pandas | Docker |
+| Git | Hugging Face | NumPy | GitHub Actions |
+| GitHub | Transformers | Matplotlib | FastAPI |
+| Jupyter Notebook | LLMs | Scikit-Learn | Streamlit |
+| Google Colab | RAG | SQLite | REST APIs |
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+| 📖 Topic | Progress |
+|:---------|:--------:|
+| Advanced Machine Learning | 🟣🟣🟣🟣⚪ |
+| Deep Learning | 🟣🟣🟣🟣⚪ |
+| Generative AI | 🟣🟣🟣🟣🟣 |
+| Retrieval-Augmented Generation | 🟣🟣🟣🟣🟣 |
+| AI Agents | 🟣🟣🟣⚪⚪ |
+| Multi-Agent Systems | 🟣🟣🟣⚪⚪ |
+| FastAPI | 🟣🟣🟣🟣⚪ |
+| Docker | 🟣🟣🟣⚪⚪ |
+| MLOps | 🟣🟣⚪⚪⚪ |
+| Kubernetes | 🟣⚪⚪⚪⚪ |
+| Cloud (AWS/GCP) | 🟣⚪⚪⚪⚪ |
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```text
+🧠 Building Production-Ready AI Applications
+
+████████████████████░░ 90%
+
+🤖 Generative AI
+
+███████████████████░░░ 85%
+
+📚 Retrieval-Augmented Generation
+
+████████████████████░░ 90%
+
+⚡ AI Agents
+
+██████████████░░░░░░░░ 65%
+
+🐳 Docker
+
+████████████░░░░░░░░░░ 60%
+
+☁️ Cloud Deployment
+
+████████░░░░░░░░░░░░░░ 40%
+
+⚙️ MLOps
+
+███████░░░░░░░░░░░░░░░ 35%
+```
+
+---
+
+# 🌱 My Engineering Philosophy
+
+<div align="center">
+
+```text
+Learn 📚
+      ↓
+Build 🚀
+      ↓
+Fail 💥
+      ↓
+Debug 🐞
+      ↓
+Improve ⚡
+      ↓
+Ship 🌍
+      ↓
+Repeat ♾️
+```
+
+</div>
+
+---
+
+# 💜 Fun Developer Facts
+
+- 🌸 I enjoy building complete AI products—not just ML models.
+- 🤖 My favorite area of AI is **Generative AI**.
+- 📄 I love working on **Document AI** and **RAG systems**.
+- 🧠 I'm fascinated by **Agentic AI** and intelligent workflows.
+- ☕ Coffee + Python = Productive coding sessions.
+- 🎨 Outside of coding, I enjoy sketching and journaling.
+- 🚀 My goal is to build AI that solves meaningful real-world problems.
+
+---
+# 🚀 Featured AI Projects
+
+> *Every project represents a step forward in my journey toward becoming a Production AI Engineer.*
+
+<br>
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🧠 Research Paper Simplifier AI
+
+**An AI-powered research assistant designed to make academic papers easier to understand.**
+
+### ✨ Features
+
+- 📄 Chat with PDFs
+- 🔍 Semantic Search
+- 🧠 RAG Pipeline
+- 🤖 LLM-powered Answers
+- 📚 Multi-document Support
+- 💬 Context-aware Conversations
+
+### ⚙️ Tech
+
+`Python` `LangChain` `FAISS`
+`Sentence Transformers`
+`Streamlit`
+`RAG`
+
+⭐ **Flagship GenAI Project**
+
+</td>
+
+<td width="50%">
+
+## 🌸 MoodMind AI
+
+Emotion-aware AI journaling assistant.
+
+### ✨ Features
+
+- 😊 Emotion Detection
+- 📖 Smart Journal
+- 💡 Wellness Suggestions
+- 🤖 Transformer Models
+- 💾 Database Support
+- 📈 Mood Tracking
+
+### ⚙️ Tech
+
+`Python`
+`NLP`
+`Transformers`
+`SQLite`
+`Streamlit`
+
+❤️ Personal Favorite
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🤖 AI Study Assistant
+
+Your personal AI learning companion.
+
+### Features
+
+- 📚 PDF Summarization
+- ❓ Question Answering
+- 💬 AI Chat
+- 🔑 User Authentication
+- 🧠 Groq API
+- ⚡ Fast Responses
+
+### Built With
+
+Python
+
+Streamlit
+
+LLMs
+
+Groq
+
+NLP
+
+</td>
+
+<td width="50%">
+
+## 🌍 Earthquake Prediction AI
+
+Research-oriented hybrid AI project.
+
+### Features
+
+- 🌍 Seismic Data
+- ☢ Radon Gas Analysis
+- 📈 Time Series
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 📊 Hybrid Prediction
+
+### Built With
+
+Python
+
+TensorFlow
+
+Pandas
+
+Scikit-Learn
+
+Deep Learning
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🤖 Generative AI Projects
+
+| 🚀 Project | Description |
+|------------|-------------|
+| 📄 RAG Based Research Assistant | Chat with research papers using Retrieval-Augmented Generation |
+| 📚 Multi Document Chatbot | AI chatbot supporting PDF, DOCX & PPTX |
+| 🧠 Hybrid RAG | Advanced hybrid retrieval pipeline |
+| 🤖 Multimodal Agent | AI Agent capable of multimodal interactions |
+| ⚡ AI Project Builder | AI-powered development experiments |
+| 📖 AI Study Assistant | Intelligent learning companion |
+
+---
+
+# 📊 Machine Learning Projects
+
+| 📈 Project | Domain |
+|------------|---------|
+| 🎓 Student Performance Predictor | Regression |
+| 📉 Customer Churn Prediction | Classification |
+| 🏪 Mall Customer Segmentation | Clustering |
+| 📚 Book Recommendation System | Recommendation Systems |
+| 🌱 Plant Disease Detection | Computer Vision |
+| 🎬 IMDB Sentiment Analysis | Deep Learning NLP |
+| 😀 Restaurant Sentiment Analysis | NLP |
+| 🖼 CIFAR-10 Classification | CNN |
+| 🎨 Image to Cartoon | Computer Vision |
+| ✏ Image to Pencil Sketch | Image Processing |
+
+---
+
+# 🏆 Hackathons & Challenges
+
+### 💡 Devopioa 2.0 — MyBudgetAI
+
+AI-powered finance assistant built during a hackathon.
+
+✨ Highlights
+
+- Smart Expense Categorization
+- AI-powered Financial Insights
+- Expense Analytics
+- Personal Finance Dashboard
+
+---
+
+### 💼 BCG X Data Science Simulation
+
+Industry simulation project focused on customer churn prediction.
+
+Skills Demonstrated
+
+- Exploratory Data Analysis
+- Feature Engineering
+- Machine Learning
+- Business Insights
+- Random Forest
+
+---
+
+# 🌱 What I'm Building Next
+
+- 🤖 AI SaaS Products
+- 🧠 Multi-Agent AI Systems
+- ☁ Cloud-native AI Applications
+- ⚡ Production AI APIs
+- 🐳 Dockerized AI Systems
+- 📚 Enterprise RAG Platforms
+- 🏗 AI System Design Projects
+
+---
+
+# 📈 My AI Journey Through Projects
+
+```text
+Python Basics
+      │
+      ▼
+Data Analysis
+      │
+      ▼
+Machine Learning
+      │
+      ▼
+Deep Learning
+      │
+      ▼
+Computer Vision
+      │
+      ▼
+Natural Language Processing
+      │
+      ▼
+Recommendation Systems
+      │
+      ▼
+Retrieval-Augmented Generation
+      │
+      ▼
+LLMs
+      │
+      ▼
+AI Agents
+      │
+      ▼
+Production AI Engineering 🚀
+```
+
+---
+
+<div align="center">
+
+## 💜 My Favorite Tech Stack
+
+🐍 Python • 🤖 Transformers • 🧠 LangChain • ⚡ FastAPI
+
+📚 RAG • 🔍 FAISS • 🐳 Docker • ☁️ Cloud
+
+*"I love building AI products that people can actually use."*
+
+</div>
+
+---
