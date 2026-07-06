@@ -754,13 +754,13 @@ Production AI Engineering 🚀
 
 ## 🌸 My Coding Universe
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SHALINISAURAV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SHALINISAURAV&theme=tokyonight&hide_border=true&background=0d1117" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHALINISAURAV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 </div>
 
@@ -770,19 +770,21 @@ Production AI Engineering 🚀
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHALINISAURAV&theme=tokyo-night&hide_border=true" />
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Contribution Snake (IMPORTANT SETUP REQUIRED)
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/SHALINISAURAV/SHALINISAURAV/output/github-contribution-grid-snake.svg" />
 
 </div>
+
+> ⚠️ If snake doesn’t show → you need GitHub Action (I give below)
 
 ---
 
@@ -790,7 +792,7 @@ Production AI Engineering 🚀
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=SHALINISAURAV&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -806,41 +808,10 @@ Production AI Engineering 🚀
 💻 Focus       : LLMs • RAG • GenAI • ML Systems
 🚀 Projects    : 20+ AI/ML Repositories
 🧠 Mindset     : Learn → Build → Deploy → Improve
-📚 Passion     : Turning AI research into real products
+📚 Passion     : Turning AI into real-world products
 ☕ Fuel        : Coffee + Curiosity
 🌸 Style       : Clean AI systems with elegance
 ```
-
-</div>
-
----
-
-# 💡 Coding Activity Summary
-
-<div align="center">
-
-| Metric | Status |
-|--------|--------|
-| 🔥 Current Focus | AI Engineering |
-| 🧠 Learning Curve | High Growth |
-| 🚀 Project Building | Active |
-| 📚 Consistency | Strong |
-| ☁️ Deployment Skills | Improving |
-| 🤖 GenAI Expertise | Growing Rapidly |
-
-</div>
-
----
-
-# 🌸 Developer Vibe Check
-
-<div align="center">
-
-✨ Building AI systems that matter  
-🧠 Thinking in architectures, not just code  
-🚀 Shipping real-world AI products  
-💜 Learning every single day  
-🌍 Moving toward production-grade AI engineering  
 
 </div>
 
@@ -850,15 +821,15 @@ Production AI Engineering 🚀
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:shalinisourav07@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/shalini-saurav-649aa22b8/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/SHALINISAURAV">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -871,8 +842,6 @@ Production AI Engineering 🚀
 <div align="center">
 
 ### *“I don’t just write code — I build intelligent systems that think, learn, and evolve.”* 🤖💜
-
-<br>
 
 ⭐ If you like my work, consider following my journey!
 
