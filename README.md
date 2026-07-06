@@ -748,3 +748,132 @@ Production AI Engineering 🚀
 </div>
 
 ---
+# 📊 GitHub Analytics Dashboard
+
+<div align="center">
+
+## 🌸 My Coding Universe
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+# 🌸 Coding Identity Snapshot
+
+<div align="center">
+
+```text
+👩‍💻 Name        : Shalini Saurav
+🤖 Role        : AI Engineer (In Progress)
+💻 Focus       : LLMs • RAG • GenAI • ML Systems
+🚀 Projects    : 20+ AI/ML Repositories
+🧠 Mindset     : Learn → Build → Deploy → Improve
+📚 Passion     : Turning AI research into real products
+☕ Fuel        : Coffee + Curiosity
+🌸 Style       : Clean AI systems with elegance
+```
+
+</div>
+
+---
+
+# 💡 Coding Activity Summary
+
+<div align="center">
+
+| Metric | Status |
+|--------|--------|
+| 🔥 Current Focus | AI Engineering |
+| 🧠 Learning Curve | High Growth |
+| 🚀 Project Building | Active |
+| 📚 Consistency | Strong |
+| ☁️ Deployment Skills | Improving |
+| 🤖 GenAI Expertise | Growing Rapidly |
+
+</div>
+
+---
+
+# 🌸 Developer Vibe Check
+
+<div align="center">
+
+✨ Building AI systems that matter  
+🧠 Thinking in architectures, not just code  
+🚀 Shipping real-world AI products  
+💜 Learning every single day  
+🌍 Moving toward production-grade AI engineering  
+
+</div>
+
+---
+
+# 📬 Let's Connect
+
+<div align="center">
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🌸 Final Message
+
+<div align="center">
+
+### *“I don’t just write code — I build intelligent systems that think, learn, and evolve.”* 🤖💜
+
+<br>
+
+⭐ If you like my work, consider following my journey!
+
+</div>
