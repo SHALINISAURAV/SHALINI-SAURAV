@@ -846,3 +846,118 @@ Production AI Engineering 🚀
 ⭐ If you like my work, consider following my journey!
 
 </div>
+---
+
+# 🌸 Now Building...
+
+<div align="center">
+
+```text
+🚀 Production AI Systems
+🤖 Generative AI Applications
+📚 RAG-based Knowledge Systems
+⚡ AI Agents & Automation Workflows
+☁️ Deployable AI SaaS Products
+```
+
+</div>
+
+---
+
+# 💜 Developer Philosophy
+
+<div align="center">
+
+### ✨ "I don’t just build models — I build intelligent systems that solve real problems."
+
+<br>
+
+```text
+Learn → Build → Break → Fix → Improve → Deploy → Repeat
+```
+
+</div>
+
+---
+
+# 🌸 AI Engineering Mantra
+
+<div align="center">
+
+> "The future belongs to those who can turn intelligence into systems."
+
+</div>
+
+---
+
+# ☕ Daily Developer Routine
+
+<div align="center">
+
+```text
+💻 Code
+📚 Learn
+🧠 Think
+🔧 Debug
+🚀 Ship
+🌙 Reflect
+```
+
+</div>
+
+---
+
+# 🎀 Dev Signature
+
+<div align="center">
+
+```text
+Built with curiosity 💜
+Powered by Python 🐍
+Driven by AI dreams 🤖
+Designed with care 🌸
+```
+
+</div>
+
+---
+
+# 🌷 Final Quote
+
+<div align="center">
+
+### 💡
+
+*"You don’t become an AI Engineer by watching — you become one by building."*
+
+</div>
+
+---
+
+# 🌸 Closing Note
+
+<div align="center">
+
+Thank you for visiting my GitHub space 🌸
+
+I’m currently on a journey of building **real-world AI systems** — one project at a time.
+
+If you're also passionate about AI, ML, or building intelligent products...
+
+**Let’s connect and build the future together 🚀**
+
+<br>
+
+⭐ *Star a repo if you like my work*
+
+</div>
+
+---
+
+<div align="center">
+
+## 💜 SHALINI SAURAV
+
+### AI Engineer • ML Builder • GenAI Developer
+
+</div>
