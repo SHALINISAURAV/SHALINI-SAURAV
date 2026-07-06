@@ -1,203 +1,430 @@
-  <div align="center">
+<div align="center">
 
-# Hi there, I'm SHALINI 👋
+# 🌸 Hey there, I'm Shalini Saurav 👋
 
-### 🤖 AI Engineer | Machine Learning Enthusiast | Generative AI Developer
+### 🤖 AI Engineer in Progress • Machine Learning Engineer • Generative AI Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=AI+Engineer+in+Progress;Machine+Learning+Developer;Generative+AI+Builder;RAG+%7C+LLMs+%7C+Agentic+AI;Python+Developer;Always+Learning+Something+New+🌸" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=AI+Engineer+in+Progress;Machine+Learning+Developer;Generative+AI+Builder;RAG+%7C+LLMs+%7C+Agentic+AI;Python+Developer;Building+Production+Ready+AI+Applications;Learning+Something+New+Every+Day+🌸" />
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=flat-square"/>
 
 </div>
 
 ---
 
-## 🌷 About Me
+# 🌷 About Me
 
-I'm passionate about building intelligent systems that solve real-world problems using Artificial Intelligence.
+Hi! I'm **Shalini**, a B.Tech student passionate about building **real-world Artificial Intelligence applications** that create meaningful impact.
 
-Currently, I'm focused on creating production-ready AI applications while strengthening my foundation in Machine Learning, Deep Learning, NLP, and Software Engineering.
+Rather than only training models, I enjoy building **complete AI products**—from data collection and preprocessing to model development, backend engineering, deployment, and production-ready architecture.
 
-I enjoy transforming ideas into end-to-end projects—from data collection and model training to deployment using modern AI tools.
+My long-term goal is to become an **AI Engineer** capable of designing scalable intelligent systems powered by Machine Learning, Generative AI, and Software Engineering.
 
-✨ Current Focus
+I strongly believe in:
+
+- 🌸 Continuous learning
+- 🧠 Building instead of only consuming
+- 🚀 Learning through projects
+- 💡 Solving real-world problems using AI
+- 📚 Strong engineering fundamentals
+
+---
+
+# 🎓 Currently
+
+🎓 B.Tech Student
+
+🤖 Learning AI Engineering Full-Time
+
+💻 Building Production Ready AI Projects
+
+📚 Exploring Software Engineering for AI
+
+🌍 Open Source Learner
+
+---
+
+# 🚀 Current Focus
 
 - 🧠 Machine Learning
 - 🤖 Generative AI
 - 📚 Retrieval-Augmented Generation (RAG)
 - 🔥 Large Language Models (LLMs)
 - ⚡ Agentic AI
+- 🤝 Multi-Agent Systems
+- 📄 Document AI
+- 🔍 Semantic Search
+- 🏗 AI System Design
+- 🚀 Production AI Applications
 - 🐳 Docker
-- 🚀 FastAPI
+- ⚙️ FastAPI
 - 🌐 Streamlit
-- ☁️ AI Deployment
+- ☁️ Deployment
+- 🔄 MLOps
 
 ---
 
 # 💻 Tech Stack
 
-## 👩‍💻 Programming Languages
+## 👩‍💻 Programming
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+</p>
 
 ---
 
 ## 📊 Data Science
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas"/>
+
+</p>
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
 
 ---
 
-## 🤖 Machine Learning & Deep Learning
+## 🤖 AI / ML
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
-## 💬 NLP & Generative AI
+</p>
 
-![Transformers](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-AI-blue?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/Large_Language_Models-8A2BE2?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-ff69b4?style=for-the-badge)
-
----
-
-## 🌐 Backend
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![REST API](https://img.shields.io/badge/REST_API-grey?style=for-the-badge)
+- Machine Learning
+- Deep Learning
+- NLP
+- Computer Vision
+- Model Training
+- Feature Engineering
+- Data Analysis
 
 ---
 
-## 🎨 Frontend
+## 🧠 Generative AI
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- Hugging Face Transformers
+- Prompt Engineering
+- AI Agents
+- Agentic AI
+- Multi-Agent Systems
+
+---
+
+## ⚙️ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+
+</p>
+
+- REST APIs
+- Python Backend
+- AI APIs
+
+---
+
+## 🌐 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=streamlit"/>
+
+</p>
 
 ---
 
 ## 🗄 Database
 
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+<p>
+
+<img src="https://skillicons.dev/icons?i=sqlite"/>
+
+</p>
+
+- SQL
 
 ---
 
-## ☁️ Deployment & DevOps
+## ☁️ DevOps & Deployment
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,vscode"/>
 
-## 🛠 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab)
+</p>
 
 ---
 
-# 📚 Currently Learning
+# 🛠 Tools I Use
 
-- Advanced Machine Learning
-- Deep Learning
-- MLOps
-- Agentic AI
-- Multi-Agent Systems
-- AI System Design
-- Production AI Applications
+- VS Code
+- Google Colab
+- Git
+- GitHub
+- Docker
+- Jupyter Notebook
+- FastAPI
+- Streamlit
+
+---
+
+# 📖 Currently Learning
+
+✔ Advanced Machine Learning
+
+✔ Deep Learning
+
+✔ MLOps
+
+✔ Agentic AI
+
+✔ Multi-Agent Systems
+
+✔ AI System Design
+
+✔ Vector Databases
+
+✔ Production AI Deployment
+
+✔ Docker
+
+✔ Kubernetes (Upcoming)
+
+✔ Cloud for AI
 
 ---
 
 # 🚀 Featured Projects
 
-🌸 MoodMind AI
+## 🌸 MoodMind AI
 
-Emotion-aware AI journaling application using NLP and Machine Learning.
+An intelligent AI-powered journaling assistant capable of understanding emotions through NLP and Machine Learning.
 
----
+**Tech**
 
-📄 Research Paper Simplifier
-
-Summarizes research papers, extracts key findings, limitations, and future work using LLMs.
-
----
-
-📁 Smart File Organizer Pro
-
-Automatic file organization system with logging, undo support, multithreading, Docker, and CLI.
+- Python
+- NLP
+- ML
+- Streamlit
 
 ---
 
-🎬 Netflix Content Analysis
+## 📄 Research Paper Simplifier AI
 
-Complete EDA project with visual storytelling and business insights.
+A production-oriented AI assistant capable of
+
+- Uploading thousands of research papers
+- Semantic Search
+- RAG
+- Chat with PDFs
+- Explain Equations
+- Generate Summaries
+- Extract Future Work
+- Citation Support
+
+**Tech**
+
+Python • FastAPI • LangChain • FAISS • HuggingFace • LLMs • Docker
 
 ---
 
-🛍 E-Commerce Sales Analysis
+## 🤖 AI Customer Support Agent
 
-Sales trends, customer insights, forecasting, and dashboarding.
+An intelligent conversational AI using
+
+- Memory
+- RAG
+- APIs
+- Vector Databases
+- LangChain
+- Agentic AI
 
 ---
 
-🤖 AI Customer Support Agent
+## 📂 Smart File Organizer Pro
 
-Agentic AI chatbot with memory, RAG, LangChain, APIs, and vector databases.
+A complete desktop utility capable of
+
+- Automatic File Organization
+- Logging
+- Undo Support
+- CLI
+- Docker Support
+- Multi-threading
 
 ---
 
-# 📈 GitHub Stats
+## 📈 Netflix Content Analysis
+
+Exploratory Data Analysis with
+
+- Data Visualization
+- Business Insights
+- Storytelling
+- Dashboarding
+
+---
+
+## 🛍 E-Commerce Sales Analytics
+
+Business Intelligence Project
+
+- Customer Analysis
+- Sales Trends
+- KPI Dashboard
+- Forecasting
+
+---
+
+## 🌍 Earthquake Prediction using AI
+
+Research-oriented ML & DL project integrating
+
+- Seismic Data
+- Radon Gas Data
+- Hybrid Models
+- Historical Datasets
+
+---
+
+# 🏆 Goals for 2026
+
+- Build 25+ AI Projects
+- Contribute to Open Source
+- Master AI Engineering
+- Learn MLOps
+- Learn Cloud Deployment
+- Become an AI Engineer
+- Publish Technical Blogs
+- Build AI SaaS Products
+- Crack AI/ML Internship
+- Build an AI Startup
+
+---
+
+# 🌱 My Learning Philosophy
+
+> Learn → Build → Fail → Improve → Repeat 🚀
+
+I believe the best way to master Artificial Intelligence is by continuously building projects that solve real-world problems.
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
+# 📈 Contribution Graph
+
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🌸 Fun Facts
+# 🏅 GitHub Trophies
 
-- ☕ Coffee + Python = Productivity
-- 📚 Always learning something new
-- 💡 Love building AI that solves real problems
-- 🌷 Turning ideas into intelligent applications
-- 🚀 One project at a time toward becoming an AI Engineer
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
 
 ---
 
-# 🤝 Let's Connect
+# 💭 Random Dev Quote
 
-📧 Email: your_email@gmail.com
+<p align="center">
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-🐙 GitHub: https://github.com/YOUR_USERNAME
+</p>
 
-💻 Portfolio: Coming Soon ✨
+---
+
+# 🌸 A Little More About Me
+
+🌷 AI Enthusiast
+
+📚 Self Learner
+
+💻 Python Developer
+
+🧠 Curious Thinker
+
+🎨 Artist & Sketching Enthusiast
+
+✍️ Journaling Lover
+
+🚀 Loves Building End-to-End AI Products
+
+🌍 Passionate about Technology & Entrepreneurship
+
+☕ Coffee + Python = Happy Me
+
+🌱 Always Learning Something New
+
+---
+
+# 📬 Let's Connect
+
+📧 **Email**
+
+your_email@gmail.com
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/your-profile
+
+🐙 **GitHub**
+
+https://github.com/YOUR_USERNAME
+
+🌐 **Portfolio**
+
+Coming Soon...
 
 ---
 
 <div align="center">
 
-### 🌸 "Building intelligent systems with curiosity, creativity, and code."
+## 🌸 My Motto
 
-⭐ Thanks for visiting my profile!
+> **"Dream Big. Learn Continuously. Build Fearlessly. Ship Real AI."**
+
+---
+
+### ⭐ If you like my projects, consider giving them a star!
+
+**Thanks for visiting my profile! 😊**
 
 </div>
