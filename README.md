@@ -20,7 +20,7 @@
 
 # 🌸 Welcome to My Digital Workspace
 
-Hi! I'm **Shalini**, a B.Tech student who loves turning ideas into intelligent applications.
+Hi! I'm **Shalini**, a B.Tech CSE-Data Science student who loves turning ideas into intelligent applications.
 
 While many people stop after training a machine learning model, I enjoy building the **entire AI product**—from collecting and preprocessing data to developing models, designing APIs, integrating LLMs, deploying applications, and making them production-ready.
 
