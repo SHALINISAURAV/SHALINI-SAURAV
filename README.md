@@ -629,7 +629,93 @@ Repeat ♾️
 
 ---
 
-# 📊 Machine Learning Projects
+# 🧪 Machine Learning Projects
+
+> *It contains all ML projects with robust ML Pipelines and End-to-End ML Systems.*
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🏥 Medical Insurance Regression
+
+**End-to-end Machine Learning regression project designed to predict medical insurance expenses using structured pipelines.**
+
+### ✨ Features
+- 🧼 Scikit-Learn Pipelines (Data Preprocessing)
+- 📊 Extensive Exploratory Data Analysis (EDA)
+- 📈 Multi-model Regression Analysis
+- 💻 Interactive Streamlit User Interface
+
+### ⚙️ Tech
+`Python` `Scikit-Learn` `Pandas` `EDA` `Streamlit`
+
+🏥 **End-to-End Medical AI**
+
+</td>
+<td width="50%" valign="top">
+
+## 📊 Multi-Model ML Visualizer
+
+**An interactive Machine Learning platform to upload datasets, train multiple classification models, and compare performance.**
+
+### ✨ Features
+- 📂 Dynamic Dataset Uploading & Parsing
+- 🔄 Multi-Model Classification Training
+- 📈 Live Performance Metrics Comparison
+- 🎨 Beautiful, Interactive Visualizations
+
+### ⚙️ Tech
+`Python` `Streamlit` `Scikit-Learn` `Matplotlib` `Seaborn`
+
+🛠️ **Interactive ML Platform**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 🎓 Student Performance Predictor
+
+**Predictive ML system that analyzes student academic outcomes based on demographic and preparation features.**
+
+### ✨ Features
+- 🧠 Multi-feature Correlation Analysis
+- 📝 Feature Engineering (Parental Ed, Lunch, Prep)
+- 🎯 Mathematics Score Regression Modeling
+- ⚡ Fast & Explainable Model Outputs
+
+### ⚙️ Tech
+`Python` `Scikit-Learn` `EDA` `Feature Engineering`
+
+📚 **Predictive Analytics**
+
+</td>
+<td width="50%" valign="top">
+
+## 🔄 Upcoming ML Pipeline
+
+**Next production-grade ML system currently under development.**
+
+### ✨ Features
+- 🚀 CI/CD Pipeline Integration
+- 📦 Model Versioning & Registry
+- 🧪 Automated Testing of Data/Code
+- 📈 Real-time Prediction Monitoring
+
+### ⚙️ Tech
+`MLOps` `GitHub Actions` `Docker` `DVC`
+
+🚧 **Pipeline Under Construction**
+
+</td>
+</tr>
+</table>
+
+# 📊 Machine Learning Projects Build using notebooks .ipbny
 
 | 📈 Project | Domain |
 |------------|---------|
