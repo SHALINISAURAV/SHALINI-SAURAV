@@ -593,39 +593,6 @@ NLP
 
 <td width="50%">
 
-## 🌍 Earthquake Prediction AI
-
-Research-oriented hybrid AI project.
-
-### Features
-
-- 🌍 Seismic Data
-- ☢ Radon Gas Analysis
-- 📈 Time Series
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 📊 Hybrid Prediction
-
-### Built With
-
-Python
-
-TensorFlow
-
-Pandas
-
-Scikit-Learn
-
-Deep Learning
-
-</td>
-
-</tr>
-
-</table>
-
----
-
 # 🤖 Generative AI Projects
 
 | 🚀 Project | Description |
