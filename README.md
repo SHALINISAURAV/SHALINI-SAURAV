@@ -496,102 +496,125 @@ Repeat ♾️
 <br>
 
 <table>
-
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+## 🧠 Hybrid RAG System
 
-## 🧠 Research Paper Simplifier AI
-
-**An AI-powered research assistant designed to make academic papers easier to understand.**
+**Advanced retrieval system combining dense semantic search and BM25 keyword search with Reciprocal Rank Fusion (RRF).**
 
 ### ✨ Features
-
-- 📄 Chat with PDFs
-- 🔍 Semantic Search
-- 🧠 RAG Pipeline
-- 🤖 LLM-powered Answers
-- 📚 Multi-document Support
-- 💬 Context-aware Conversations
+- 🔍 Hybrid Search (Dense + Sparse)
+- 🔀 Reciprocal Rank Fusion (RRF)
+- 📊 Context-rich Retrieval
+- 🤖 High-accuracy Answers
 
 ### ⚙️ Tech
+`Python` `ChromaDB` `BGE Embeddings` `RAG` `RRF`
 
-`Python` `LangChain` `FAISS`
-`Sentence Transformers`
-`Streamlit`
-`RAG`
-
-⭐ **Flagship GenAI Project**
+⭐ **Flagship Production Project**
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+## 🤖 AI Project Builder
+
+**Multi-agent system that converts simple ideas into complete machine learning projects using collaborative AI.**
+
+### ✨ Features
+- 👥 4 Specialized Agents
+- 📅 Automated Project Planning
+- 💻 Automated Code Generation
+- 🔍 Reviewer & Explainer Loop
+
+### ⚙️ Tech
+`Python` `Groq` `LLaMA 3.3` `Multi-Agent Systems`
+
+⚙️ **Advanced Engineering**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 👁️ Multimodal Agent
+
+**AI-powered vision agent capable of understanding images and handling complex reasoning chats in real-time.**
+
+### ✨ Features
+- 🖼️ Image Understanding
+- 📝 Automated Vision Captioning
+- 💬 Real-time Interactive Chat
+- 🧠 Deep Reasoning Loop
+
+### ⚙️ Tech
+`Python` `BLIP` `LLaMA 3.3` `Groq` `Computer Vision`
+
+🚀 **Cutting-edge Vision**
+
+</td>
+<td width="50%" valign="top">
+
+## 📋 ResumeIQ-AI
+
+**AI-powered Resume Analyzer designed to parse insights, calculate ATS scores, and find skill gaps.**
+
+### ✨ Features
+- 🔍 Deep Resume Parsing
+- 📊 ATS Score Calculation
+- 💡 Skill Gap Detection
+- 💼 Job Match Recommendations
+
+### ⚙️ Tech
+`Python` `Streamlit` `NLP` `Open-Source LLMs`
+
+💼 **Enterprise Utility**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ## 🌸 MoodMind AI
 
-Emotion-aware AI journaling assistant.
+**Emotion-aware journaling assistant utilizing NLP to track wellness trends and provide recommendations.**
 
 ### ✨ Features
-
-- 😊 Emotion Detection
-- 📖 Smart Journal
-- 💡 Wellness Suggestions
-- 🤖 Transformer Models
-- 💾 Database Support
-- 📈 Mood Tracking
+- 😊 Transformer Emotion Detection
+- 📖 Smart Journal History
+- 💡 Personalized Wellness Suggestions
+- 📈 Long-term Mood Tracking
 
 ### ⚙️ Tech
+`Python` `Transformers` `NLP` `SQLite` `Streamlit`
 
-`Python`
-`NLP`
-`Transformers`
-`SQLite`
-`Streamlit`
-
-❤️ Personal Favorite
+❤️ **Personal Favorite**
 
 </td>
+<td width="50%" valign="top">
 
+## 📚 AI Study Assistant
+
+**Personal learning companion supporting instant explanations, summarizations, and voice interactions.**
+
+### ✨ Features
+- 📄 PDF Summarization
+- 🎙️ Voice Interaction Support
+- 🔑 Secure Multi-user Login
+- ⚡ Fast Inference via Groq
+
+### ⚙️ Tech
+`Python` `Streamlit` `Groq API` `LLMs` `NLP`
+
+🎓 **EdTech Application**
+
+</td>
 </tr>
-
 </table>
 
 ---
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🤖 AI Study Assistant
-
-Your personal AI learning companion.
-
-### Features
-
-- 📚 PDF Summarization
-- ❓ Question Answering
-- 💬 AI Chat
-- 🔑 User Authentication
-- 🧠 Groq API
-- ⚡ Fast Responses
-
-### Built With
-
-Python
-
-Streamlit
-
-LLMs
-
-Groq
-
-NLP
-
-</td>
-
-<td width="50%">
 
 # 🤖 Generative AI Projects
 
