@@ -1024,7 +1024,7 @@ If you're also passionate about AI, ML, or building intelligent products...
 
 <br>
 
-⭐ *Star a repo if you like my work*
+⭐ *Star a repo if you like my work :)*
 
 </div>
 
