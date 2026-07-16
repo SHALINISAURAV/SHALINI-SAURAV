@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸 Hey, I'm Shalini Saurav 👋
+# 🌸 Hey, I'm Shalini Saurav 👩‍💻
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=B57EDC&center=true&vCenter=true&width=750&lines=AI+Engineer+in+Progress;Machine+Learning+Engineer;Generative+AI+Developer;Building+Production+Ready+AI+Applications;RAG+%7C+LLMs+%7C+Agentic+AI;Python+Developer;Always+Learning+🌸" />
 
