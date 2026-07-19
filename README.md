@@ -242,6 +242,7 @@ Become an AI Engineer
 <br>
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,sklearn,jupyter" />
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,redis,postman,streamlit,huggingface,linux&perline=10" />
 
 </div>
 
