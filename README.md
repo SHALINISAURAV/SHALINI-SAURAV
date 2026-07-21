@@ -630,6 +630,31 @@ Repeat ♾️
 
 ---
 
+❤️ **Personal Favorite**
+
+</td>
+<td width="50%" valign="top">
+
+## 📚 Book Recommendation System
+
+**A state-of-the-art recommendation engine blending Collaborative Filtering with Zero-Shot Semantic Search.**
+
+### ✨ Features
+- 🤝 Collaborative Filtering
+- 🔍 Zero-Shot Semantic Search (`all-MiniLM-L6-v2`)
+- 📐 Cosine Similarity Matching
+- 🌐 Interactive Streamlit UI
+
+### ⚙️ Tech
+`Python` `Streamlit` `Scikit-Learn` `Sentence-Transformers` `Pandas`
+
+⭐ **Hybrid Recommendation Project**
+
+</td>
+</tr>
+
+---
+
 # 🧪 Machine Learning Projects
 
 > *It contains all ML projects with robust ML Pipelines and End-to-End ML Systems.*
